@@ -58,7 +58,6 @@ h1 {
     width: 190px;
 }
 h6 {
-    position: fixed;
-    top: 530px;
-    left: 520px;
+    margin-top: 418px;
+    margin-left: 200px;
 }
