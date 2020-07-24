@@ -1,0 +1,64 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main_con {
+    width: 400px;
+    height: 500px;
+    margin: auto auto;
+    background-color: rgba(255, 136, 0, 0.89);
+    box-shadow: 5px 5px 10px black;
+}
+#input {
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 20px;
+    width: 350px;
+    border-bottom: 3px solid black;
+    border-top: 1px solid rgba(255, 136, 0, 0.89);
+    border-left: 1px solid rgba(255, 136, 0, 0.89);
+    border-right: 1px solid rgba(255, 136, 0, 0.89);
+    background-color: rgba(255, 136, 0, 0.89);
+    height: 25px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.Btn {
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    width: 120px;
+    height: 30px;
+    position: relative;
+    top: 45px;
+    left: 65px;
+}
+#list {
+    margin-top: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    width: 300px;
+    background-color: rgb(255, 136, 0);
+    margin-left: 28px;
+}
+#delBtn {
+    margin-left: 27px;
+}
+.delBtn {
+    background-color: black;
+    font-size: 11px;
+    color: white;
+    height: 20px;
+    width: 50px;
+    margin: 2px;
+}
+.algin {
+    display: inline-block;
+    width: 190px;
+}
+h6 {
+    position: fixed;
+    top: 530px;
+    left: 520px;
+}
